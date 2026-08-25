@@ -47,7 +47,7 @@ const Hero = () => {
               animate="animate"
               className="text-4xl xl:text-5xl font-bold"
             >
-              Unlock a Passion, Side Hustle, or New{" "}
+              Enri Media, Side Hustle, or New{" "}
               {/* Inline span for styling specific words */}
               <span className="text-gray-400 underline">Profession</span>
             </motion.h1>
