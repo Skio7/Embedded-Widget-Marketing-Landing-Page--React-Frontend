@@ -47,7 +47,7 @@ const Hero = () => {
               animate="animate"
               className="text-4xl xl:text-5xl font-bold"
             >
-              Ding Ding!, or New{" "}
+              Ding Ding!!, or New{" "}
               {/* Inline span for styling specific words */}
               <span className="text-gray-400 underline">Profession</span>
             </motion.h1>
